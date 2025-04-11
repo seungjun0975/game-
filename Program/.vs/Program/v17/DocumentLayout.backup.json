@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Program\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|solutionrelative:Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFE7476-02B4-4132-B8D1-6633DD79B37C}|..\\Class1th (Compli)\\Class1th (Compli).vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Class1th (Compli)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class1th (Compli)\\souce.c",
+              "RelativeDocumentMoniker": "..\\Class1th (Compli)\\souce.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class1th (Compli)\\souce.c",
+              "RelativeToolTip": "..\\Class1th (Compli)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-11T11:08:25.686Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Souce.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\Souce.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c",
               "RelativeDocumentMoniker": "Souce.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\Souce.c*",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c*",
               "RelativeToolTip": "Souce.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-10T12:08:35.391Z",
               "EditorCaption": ""
