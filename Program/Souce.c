@@ -1,75 +1,60 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
+#pragma region 반복문
+	// 프로그램 내에서 특정한 작업을 반복적으로 수행하는 명령문
 
-#pragma region 오버플로우
-	//특정한 자료형이 표현할 수 있는 최댓값의 범위를
-	//넘어서 연산을 수행하는 과정입니다.
+#pragma region 증감 연산자
+	// 피연산자를 하나씩 증가시키거나 감소시킬 때 사용하는 연산자
 
-	//char s = 127 + 1;
-	//
-	//printf("s의 값 : %d\n", s );
+	// int code = 0;
+	// int packet = ++code;
+	// printf("packet 변수를 전위 증가한 값: %d\n", packet);
+	// printf("code 변수 값: %d\n", code);
+	// 
+	// packet = --code;
+	// 
+	// printf("packet 변수 값: %d\n", packet);
+	// printf("code 변수를 전위 감소한  값: %d\n", code);
+   
+	// 전위 증감 연산자는 변수의 값을 증감시킨 후에 
+	// 연산을 수행합니다
 	
-	//오버플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	//실수일 때 오버플로우가 발생하면 infinity라는 값으로 출력합니다.
-#pragma endregion
 
-#pragma region 언더플로우
-	// 특정한 자료형이 표현할 수 있는 최솟값을 범위를 
-	// 넘어서 연산을 수행하는 과정입니다.
-
-	//char data = -128 - 1;
-	//
-	//printf("data 변수의 값: %d\n", data);
-
-	// 언더플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	// 실수일 때 언더플로우가 발생하면 0이라는 값으로 출력합니다.
-#pragma endregion
-
-
-#pragma region 부호없는 자료형
+//	int data=0;
+//
+//	int storage = data++;
+//	
+// printf("storage 변수를 후위 증가한 값: %d\n", storage);
+//	printf("data 변수 값: %d\n", data);
+//
+//
+//	storage = data--;
+//	printf("storage 변수를 후위 감소한 값: %d\n", storage);
+//	printf("data 변수 값: %d\n", data);
 	
-	//unsigned int count = 4294967295;
-	//
-	//// [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//
-	//printf("sigend count 변수의 값: %u\n", count);
-	//
-	//// [1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//printf("unsigned count 변수의 값: %d\n", count);
+	// 후위 증감 연산자는 연산을 수행한 다음 변수의 값을 증감
+
+
 
 #pragma endregion
 
-#pragma region 실수를 표현하는 방법 
+#pragma region for문
+	// 초기식을 연산하여 조건식의 결과에 따라 특정한
+	// 횟수만큼 반복하는 반복문입니다.
 
-	//float decimal = 3.333333f;
-	// 정수형 리터럴 상수는 저장하는 값의 범위가 크지않으면
-	// int 자료형으로 저장되며, 실수형 리터럴 상수는 double이라는
-	//자료형으로 저장된다 
 
-	//printf("decimal 변수의 값: %f\n", decimal);
-
-	// 표준 출력 함수로 소수를 출력할 때 4 byte 크기의 실수형
-	// 자료형은 소수점 이하 6자리까지만 표기하며, 8 byte 크기의
-	// 실수형 자료형은 소수점 이하 15자리까지만 표기합니다
+//	for (int i = 0; i!=10;i++ )
+//	{
+//		printf("Update\n");
+//
+//	}
+#pragma endregion
 
 #pragma endregion
 
-#pragma region 실수 형태의 (10)진수를 (2) 진수로 변환하는 과정
-	// 10진수 실수 부분을 1.0이 될 때까지 계속 2로 곱한
-	// 다음 곱한 결과의 정수 부분을 위에서 아래로 순서대로 정렬함
+	system("pause");
 
-	//복합대입연산자
 
-	/*
-	1.      2.
-	x = 10   y = 20
-	x += 5   y -= 7
-	x = 15
-	*/
-
-#pragma endregion
-
-		system("pause");
 }
