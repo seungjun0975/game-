@@ -1,4 +1,7 @@
 ﻿  Souce.c
-C:\Users\user\Documents\GitHub\game-\Program\Souce.c(38,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\user\Documents\GitHub\game-\Program\Souce.c(30,8): warning C4101: 'attack' :참조되지 않은 지역 변수입니다.
-  Program.vcxproj -> C:\Users\user\Documents\GitHub\game-\Program\x64\Debug\Program.exe
+C:\Users\user\Documents\GitHub\game-\Program\Souce.c(58,6): error C2374: 'pointer': 재정의. 여러 번 초기화했습니다.
+      C:\Users\user\Documents\GitHub\game-\Program\Souce.c(44,6):
+      'pointer' 선언을 참조하십시오.
+  
+C:\Users\user\Documents\GitHub\game-\Program\Souce.c(72,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Documents\GitHub\game-\Program\Souce.c(52,9): warning C4133: '초기화 중': 'int *'과(와) 'float *' 사이의 형식이 호환되지 않습니다.
