@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|solutionrelative:Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA3CBC-E623-4CB9-9CD8-FE3F8888A681}|..\\Class 10th (Function)\\Class 10th (Function).vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46669ADC-8DEE-4DFE-96BE-86F3A1D6306B}|..\\class6th (sadkl)\\class6th (sadkl).vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +30,36 @@
               "RelativeDocumentMoniker": "Souce.c",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c*",
               "RelativeToolTip": "Souce.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-17T11:21:09.698Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c",
+              "RelativeDocumentMoniker": "..\\Class 10th (Function)\\souce.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c",
+              "RelativeToolTip": "..\\Class 10th (Function)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T12:22:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class6th (sadkl)\\souce.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c",
+              "RelativeToolTip": "..\\class6th (sadkl)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T11:00:27.133Z",
               "EditorCaption": ""
             }
           ]
