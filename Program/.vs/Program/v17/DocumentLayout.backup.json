@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Program\\Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{12210657-91F5-4C01-B08E-F714E0D0EA89}|Program.vcxproj|solutionrelative:Souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27EA3CBC-E623-4CB9-9CD8-FE3F8888A681}|..\\Class 10th (Function)\\Class 10th (Function).vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{301192AD-FB66-4A46-9906-CA8FC547222B}|..\\Class 8th (Pointer)\\Class 8th (Pointer).vcxproj|C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\souce,c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46669ADC-8DEE-4DFE-96BE-86F3A1D6306B}|..\\class6th (sadkl)\\class6th (sadkl).vcxproj|C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{301192AD-FB66-4A46-9906-CA8FC547222B}|..\\Class 8th (Pointer)\\Class 8th (Pointer).vcxproj|C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Souce.c",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Program\\Souce.c",
               "RelativeDocumentMoniker": "Souce.c",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Program\\Souce.c*",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Program\\Souce.c*",
               "RelativeToolTip": "Souce.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-17T11:21:09.698Z",
               "IsPinned": true,
@@ -38,28 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c",
-              "RelativeDocumentMoniker": "..\\Class 10th (Function)\\souce.c",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\Class 10th (Function)\\souce.c",
-              "RelativeToolTip": "..\\Class 10th (Function)\\souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T12:22:19.199Z",
+              "DocumentIndex": 2,
+              "Title": "audio.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\audio.h",
+              "RelativeDocumentMoniker": "..\\Class 8th (Pointer)\\audio.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\audio.h*",
+              "RelativeToolTip": "..\\Class 8th (Pointer)\\audio.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T12:27:01.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c",
-              "RelativeDocumentMoniker": "..\\class6th (sadkl)\\souce.c",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\game-\\class6th (sadkl)\\souce.c",
-              "RelativeToolTip": "..\\class6th (sadkl)\\souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:00:27.133Z",
+              "DocumentIndex": 1,
+              "Title": "souce,c.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\souce,c.cpp",
+              "RelativeDocumentMoniker": "..\\Class 8th (Pointer)\\souce,c.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uCF54\uB529 \uD14C\uC2A4\uD2B8 \uC6A9\\game-\\Class 8th (Pointer)\\souce,c.cpp",
+              "RelativeToolTip": "..\\Class 8th (Pointer)\\souce,c.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T11:37:30.626Z",
               "EditorCaption": ""
             }
           ]

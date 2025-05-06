@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "Program.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Class 5th (cConditional Statement)\\Class 5th (cConditional Statement).vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
